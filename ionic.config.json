@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-licao11-13",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
